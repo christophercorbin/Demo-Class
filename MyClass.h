@@ -1,11 +1,12 @@
-
-class Myclass; 
+#include <string>
+using  namespace  std;
+class Myclass
 {
-private ;
+private :
 	int num;
 	string  room;
-	bool fun
-public 
-void setnum(int);
-int getnum();
+	bool fun;
+public: 
+	void setnum(int);
+	int getnum();
 }

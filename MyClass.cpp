@@ -1,4 +1,6 @@
-myvar.room="RR";
+#include "MyClass.h"
+
+//myvar.room="RR";
 void Myclass::setnum(int v)
 {
 num = v;
